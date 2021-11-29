@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.1eae2314.chunk.css",
-    "main.js": "/static/js/main.19456dfc.chunk.js",
-    "main.js.map": "/static/js/main.19456dfc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fae1ee87.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fae1ee87.js.map",
-    "static/js/2.cadd20cb.chunk.js": "/static/js/2.cadd20cb.chunk.js",
-    "static/js/2.cadd20cb.chunk.js.map": "/static/js/2.cadd20cb.chunk.js.map",
+    "main.css": "/static/css/main.0bc78b1c.chunk.css",
+    "main.js": "/static/js/main.69721917.chunk.js",
+    "main.js.map": "/static/js/main.69721917.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.88194586.js",
+    "runtime-main.js.map": "/static/js/runtime-main.88194586.js.map",
+    "static/js/2.8dd33157.chunk.js": "/static/js/2.8dd33157.chunk.js",
+    "static/js/2.8dd33157.chunk.js.map": "/static/js/2.8dd33157.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.1eae2314.chunk.css.map": "/static/css/main.1eae2314.chunk.css.map",
-    "static/js/2.cadd20cb.chunk.js.LICENSE.txt": "/static/js/2.cadd20cb.chunk.js.LICENSE.txt"
+    "static/css/main.0bc78b1c.chunk.css.map": "/static/css/main.0bc78b1c.chunk.css.map",
+    "static/js/2.8dd33157.chunk.js.LICENSE.txt": "/static/js/2.8dd33157.chunk.js.LICENSE.txt",
+    "static/media/lazada.942e4b88.png": "/static/media/lazada.942e4b88.png",
+    "static/media/promotion.0a134e31.jpg": "/static/media/promotion.0a134e31.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fae1ee87.js",
-    "static/js/2.cadd20cb.chunk.js",
-    "static/css/main.1eae2314.chunk.css",
-    "static/js/main.19456dfc.chunk.js"
+    "static/js/runtime-main.88194586.js",
+    "static/js/2.8dd33157.chunk.js",
+    "static/css/main.0bc78b1c.chunk.css",
+    "static/js/main.69721917.chunk.js"
   ]
 }
